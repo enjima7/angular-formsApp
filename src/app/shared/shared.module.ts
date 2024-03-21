@@ -7,7 +7,7 @@ import { RouterModule } from '@angular/router';
 
 @NgModule({
   declarations: [
-    SideMenuComponent
+    SideMenuComponent,
   ],
   imports: [
     CommonModule,
